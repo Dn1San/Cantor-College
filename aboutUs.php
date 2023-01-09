@@ -13,7 +13,7 @@
 <body>
     <div class="container">
         <?php
-        include("includes/header.php");
+            include("includes/header.php");
         ?>
         <div class="imageBanner">
             <img src="cantor-college-website-images\IMG_1437-min.jpeg" alt="Cantor Building">

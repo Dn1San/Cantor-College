@@ -7,17 +7,17 @@
     </div>
     <nav>
         <ul>
-            <li><a href="home.html">Home</a></li>
-            <li><a href="aboutUs.html">About Us</a></li>
-            <li><a href="findUs.html">How To Find Us</a></li>
-            <li><a href="computingCourses.html">Computing Courses</a></li>
-            <li><a href="designCourses.html">Design Courses</a></li>
-            <li><a href="facilities.html">Facilitites</a></li>
-            <li><a href="learningResources.html">Learning Rescourses</a></li>
-            <li><a href="informationForStaff.html">Information For Staff</a></li>
-            <li><a href="informationForStudents.html">Information For Students</a></li>
-            <li><a href="workingWithBusiness.html">Working With Business</a></li>
-            <li><a href="contactUs.html">Contact Us</a></li>
+            <li><a href="home.php">Home</a></li>
+            <li><a href="aboutUs.php">About Us</a></li>
+            <li><a href="findUs.php">How To Find Us</a></li>
+            <li><a href="computingCourses.php">Computing Courses</a></li>
+            <li><a href="designCourses.php">Design Courses</a></li>
+            <li><a href="facilities.php">Facilitites</a></li>
+            <li><a href="learningResources.php">Learning Rescourses</a></li>
+            <li><a href="informationForStaff.php">Information For Staff</a></li>
+            <li><a href="informationForStudents.php">Information For Students</a></li>
+            <li><a href="workingWithBusiness.php">Working With Business</a></li>
+            <li><a href="contactUs.php">Contact Us</a></li>
         </ul> 
     </nav>
 </header>
