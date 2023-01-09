@@ -28,9 +28,9 @@
                 Email: info@cantorcollege.ac.uk
             </p>
         </main>
-        <footer>
-            <p>&copy; Copyright 2022 Sheffield Hallam University</p>
-        </footer>
+        <?php
+            include("includes/footer.php");
+        ?>
     </div>
 </body>
 </html>

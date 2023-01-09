@@ -33,7 +33,7 @@
             </p>
         </main>
         <?php
-        include("includes/footer.php");
+            include("includes/footer.php");
         ?>
     </div>
 </body>

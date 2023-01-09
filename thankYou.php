@@ -21,9 +21,9 @@
                 <h3>Thank you for your message - We will be in touch.</h3>
             </section>
         </main>
-        <footer>
-            <p>&copy; Copyright 2022 Sheffield Hallam University</p>
-        </footer>
+        <?php
+            include("includes/footer.php");
+        ?>
     </div>
 </body>
 </html>

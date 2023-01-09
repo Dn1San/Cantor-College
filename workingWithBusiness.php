@@ -40,9 +40,9 @@
                 handling emerging initiatives? Our technology takes the best aspects of PNG and SVG.
             </p>
         </main>
-        <footer>
-            <p>&copy; Copyright 2022 Sheffield Hallam University</p>
-        </footer>
+        <?php
+            include("includes/footer.php");
+        ?>
     </div>
 </body>
 </html>
