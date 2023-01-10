@@ -1,14 +1,12 @@
 $(document).ready(function(){
     //start
     //Burger Menu
-    $(".burger").on("click", function (){
-        $("nav").slideToggle("fast")
-    })
     let setMenu = function () {
         // variables
         let burgerMenu = document.querySelector(".burger");
         let navBar = document.querySelector("nav");
         let navBarStatus = false;
+        //function
         if (navBar.style.left === "") {
             burgerMenu.addEventListener("click", () => {
             console.info(burgerMenu.classList);
