@@ -28,8 +28,7 @@
             </div>
         </div>
         <main>
-            <h1 class="page-title">Home</h1>
-            
+            <h1 class="page-title">Welcome To Cantor College</h1>
         </main>
         <?php
             include("includes/footer.php");
