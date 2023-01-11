@@ -67,13 +67,14 @@
                             <li>ID cards issued by the College or Learning Resources are not transferable 
                                 from one person to another.  The person named on each card is responsible 
                                 for all items borrowed on it and is liable for the cost of replacement of 
-                                the card or items borrowed on it in the event of loss or damage.
-                            </li>
-                            <p><em>Users of the Learning Resources are reminded that they must be willing to show  
+                                the card or items borrowed on it in the event of loss or damage.<br><br>
+                                <em>Users of the Learning Resources are reminded that they must be willing to show  
                                 ID cards or other identification when requested to do so by College staff.</em>
-                            </p>
+                            </li>
                         </ol>
                     </li>
+                </ol>      
+                <ol>
                     <li>
                         Use of Facilities
                         <ol class="romanNumbers">
