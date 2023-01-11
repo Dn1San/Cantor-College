@@ -18,7 +18,7 @@
         <main>
             <section>
                 <h1 class="page-title">Facilitites</h1>
-                <img class="resize-img left-float" src="cantor-college-website-images\ACES-032-Computing-Playstation-Lab-min.jpg" alt="computing facility">
+                <img class="resize-img left-float" src="images\ACES-032-Computing-Playstation-Lab-min.jpg" alt="computing facility">
                 <p>The College is located in the attractive and pleasantly refurbished Building. 
                     The building houses computing laboratories, and lecture/tutorial rooms. It 
                     has its own catering facilities and student work areas. There is also a car 

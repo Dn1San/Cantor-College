@@ -17,7 +17,7 @@
         ?>
         <main>
             <h1 class="page-title">How To Find Us</h1>
-            <img class="resize-img left-float" src="cantor-college-website-images\872SHUSpaceCitymap-min.jpg" alt="Cantor Map">
+            <img class="resize-img left-float" src="images\872SHUSpaceCitymap-min.jpg" alt="Cantor Map">
             <address>Cantor College<br>
                 Main Street<br>
                 Sheffield<br>

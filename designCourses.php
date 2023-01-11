@@ -17,7 +17,7 @@
         ?>
         <main>
             <h1 class="page-title">Design Courses</h1>
-            <img class="resize-img left-float" src="cantor-college-website-images\IMG_1099-min.jpeg" alt="design classroom">
+            <img class="resize-img left-float" src="images\IMG_1099-min.jpeg" alt="design classroom">
             <p>The College is an internationally connected creative community of diverse 
                 disciplines housed under one roof. We shape our students' futures, preparing 
                 them to shape the world through applied knowledge and creativity.

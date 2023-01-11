@@ -1,7 +1,7 @@
 <header>
     <div id="logo">
-        <img src="cantor-college-website-images\logo-min.png" alt="Logo">
-        <img class="burger" src="cantor-college-website-images\whiteMenu.svg" alt="Menu">
+        <img src="images\logo-min.png" alt="Logo">
+        <img class="burger" src="images\whiteMenu.svg" alt="Menu">
     </div>
     <div class="burger">
         <div class="line"></div>

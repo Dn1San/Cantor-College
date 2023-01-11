@@ -16,7 +16,7 @@
             include("includes/header.php");
         ?>
         <div class="imageBanner">
-            <img src="cantor-college-website-images\IMG_1437-min.jpeg" alt="Cantor Building">
+            <img src="images\IMG_1437-min.jpeg" alt="Cantor Building">
         </div>
         <main>
             <h1 class="page-title">About Us</h1>

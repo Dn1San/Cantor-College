@@ -18,7 +18,7 @@
         <main>
             <h1 class="page-title">Computing Courses</h1>
             <section >
-                <img class="resize-img left-float" src="cantor-college-website-images\IMG_1089-min.jpeg" alt="computing classroom">
+                <img class="resize-img left-float" src="images\IMG_1089-min.jpeg" alt="computing classroom">
                 <p>The College offers a range of courses to suit applicants with varying backgrounds
                     and educational abilities. At undergraduate level, there are single BSc Honours 
                     Degree courses in Computing, Computer Networks, Software Engineering and Cyber 

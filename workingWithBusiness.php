@@ -17,7 +17,7 @@
         ?>
         <main>
             <h1 class="page-title">Working With Business</h1>
-            <img class="resize-img left-float" src="cantor-college-website-images\Cantor atrium 3-min.jpg" alt="atrium">
+            <img class="resize-img left-float" src="images\Cantor atrium 3-min.jpg" alt="atrium">
             <p>We here at Cantor College realize that it is better to extend virally than to 
                 revolutionize cyber-macro-extensibly. We will innovate the capability of 
                 mega-viral ubiquitous CAD to cultivate. The ability to whiteboard holistically 
